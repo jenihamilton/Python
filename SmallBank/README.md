@@ -16,5 +16,5 @@ Account Transfer\
 Close Account\
 ![SBS_menu_db_5](https://user-images.githubusercontent.com/45529034/87977673-c0fd0780-ca94-11ea-820c-46fec67e16dd.jpg)
 
-User Entry Error Handling (attempt to log in to closed account)\
+User Entry Error Handling (attempt to log into closed account)\
 ![SBS_menu_db_6](https://user-images.githubusercontent.com/45529034/87977679-c3f7f800-ca94-11ea-9420-b342f28fcde7.jpg)
