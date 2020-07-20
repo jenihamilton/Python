@@ -1,3 +1,3 @@
 # Python
 
-Python code examples with console screenshots (where applicable).
+Python code examples with screenshots (where applicable).
